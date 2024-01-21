@@ -16,7 +16,7 @@ timezone:
 
 title: Gaoyong Han # the main title
 
-tagline: Welcome to my blog # it will display as the sub-title
+tagline: Welcome to my blog. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Gaoyong Han's blog.
@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: avatar.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
